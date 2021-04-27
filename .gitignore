@@ -6,5 +6,5 @@
 *.backup
 *.log
 *.db
-/npm
+/.npm
 __pycache__/
